@@ -1,0 +1,6 @@
+Welcome to GitHub tutorials
+
+1. Create Repository
+2. Create a sample file
+3. Enter the content
+4. Save the commiit
