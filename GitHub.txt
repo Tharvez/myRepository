@@ -11,3 +11,8 @@ Welcome to GitHub tutorials
 
 
 Working on Multiple branches
+1. Create a new branch
+2. Start commiting the new features
+
+
+Done with branches
