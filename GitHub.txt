@@ -8,6 +8,16 @@ Welcome to GitHub tutorials
 6. in the code tab will show all the commits 
 7. To go back to the previous version we can use the commits
 
+
+
+
+Working on Multiple branches
+1. Create a new branch
+2. Start commiting the new features
+
+
+Done with branches
+
 Option to create a branches
 
 
@@ -16,3 +26,4 @@ Option to create a branches
 
 
 Done with Main branch commit
+
